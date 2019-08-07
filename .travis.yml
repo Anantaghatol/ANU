@@ -1,2 +1,7 @@
-ls
+language: ruby
 
+rnm: 
+  
+ - 2.2
+
+ - jruby
